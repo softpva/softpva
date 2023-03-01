@@ -1,7 +1,8 @@
 # **Portfolio de aplicatiovs de Pedro Vitor Abreu** 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)  
+[Meu curriculo público ](https://github.com/softpva/readme/blob/main/curriculum.md)
 
 # Sobre
 > Este portfólio foi montado nos últimos meses e é composto por aplicações simples em diversas tecnologias.  
