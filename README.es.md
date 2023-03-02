@@ -20,8 +20,8 @@
 >   * [Calculadora WASM](https://github.com/softpva/wasm_calculator) Una calculadora matemática simple construida en html-css-js vinculada a un código web assembly (WASM) construido en lenguaje RUST.
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, muestra y califica un conjunto de películas.
-> * #### PFull Stack - Next JS
->   * [En desarrollo]() Que!!!!!!!!!!!!!!!!!!!!
+> * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
+>   * [En desarrollo]() Una calculadora de salarios con parámetros regionales.
 > * #### Godot - GdScript (como python)
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Un juego Tetris Math que puede resolver muchas formas de operaciones matemáticas.
 >   * [Cuadrado Mágico](https://github.com/softpva/magicSquare) Un juego de Magic Square con muchas dimensiones.
@@ -45,6 +45,7 @@
 >   * [Calculadora de IMC](https://github.com/softpva/bmi_calculator) Una calculadora de IMC para adultos.
 >   * [Contador de personas](https://github.com/softpva/people_counter) Controla la entrada/salida de personas de una sala con capacidad limitada.
 >   * [En desarrollo](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
+>   * [En desarrollo]() Una calculadora de salarios con parámetros regionales.
 > * #### Juegos educativos
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Un juego Tetris Math que puede resolver muchas formas de operaciones matemáticas.
 >   * [Magic Square](https://github.com/softpva/magicSquare) Un juego de Magic Square con muchas dimensiones.
@@ -53,6 +54,7 @@
 > * #### CRUD
 >   * [clínica médica CRUD](https://github.com/softpva/clinic) Un CRUD simple para una clínica.
 > * #### WEB
+>   * [En desarrollo]() Una calculadora de salarios con parámetros regionales.
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, muestra y califica un conjunto de películas.  
 
 # Autor

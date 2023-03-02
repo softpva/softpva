@@ -22,8 +22,8 @@
 >   * [WASM Calculator](https://github.com/softpva/wasm_calculator) A simple math calculator built in html-css-js linked to a web assembly code (WASM) built in RUST language.
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Fetches, shows and evaluates a set of movies.
-> * #### Full Stack - Next JS
->   * [Under development]() What!!!!!!!!!!!!!!!!!!!!!
+> * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
+>   * [Under development]() A salary calculator with regional parameters.
 > * #### Godot - GdScript (like python)  
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Tetris Math game can solve many forms of math operations.
 >   * [Magic Square](https://github.com/softpva/magicSquare) A Magic Square Game with many dimensions.
@@ -49,6 +49,7 @@
 >   * [BMI Calculator](https://github.com/softpva/bmi_calculator) A BMI clculator for adult people.
 >   * [People Counter](https://github.com/softpva/people_counter) Controls people entry/exit a capacity-constrained room.
 >   * [Under development](https://github.com/softpva/financialJsCalculator) A financial calculator built in html-css-js
+>   * [Under development]() A salary calculator with regional parameters.
 > * #### Educational Games
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Tetris Math game can solve many forms of math operations.
 >   * [Magic Square](https://github.com/softpva/magicSquare) A Magic Square Game with many dimensions.
@@ -57,6 +58,7 @@
 > * #### CRUD
 >   * [Clinic CRUD](https://github.com/softpva/clinic) A simple CRUD to a clinic.
 > * #### WEB
+>   * [Under development]() A salary calculator with regional parameters.
 >   * [DSMovie](https://github.com/softpva/dsmovie) Fetches, shows and evaluates a set of movies.
 
 

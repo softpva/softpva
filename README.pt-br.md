@@ -20,9 +20,9 @@
 >   * [WASM Calculator](https://github.com/softpva/wasm_calculator) Uma calculadora matemática simples construída em html-css-js vinculada a um código web assembly  (WASM) construído em linguagem RUST.
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, mostra e avalia um conjunto de filmes.
-> * #### Full Stack - Next JS
->   * [Em desenvolvimento]() O quê!!!!!!!!!!!!!!!!!!!!
-> * #### Godot - GdScript (como python)
+> * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
+>   * [Em desenvolvimento]() Uma calculadora de salários com parâmetros regionais.
+> * #### Godot - GdScript (parece python)
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Um jogo Tetris Math que pode resolver muitas formas de operações matemáticas.
 >   * [Quadrado Mágico](https://github.com/softpva/magicSquare) Um Jogo de Quadrado Mágico com muitas dimensões.
 >   * [Tabuada Pong ](https://github.com/softpva/pongMultiplicationTable) Um jogo Pong para treinar tabuadas.
@@ -47,6 +47,7 @@
 >   * [Calculadora de IMC](https://github.com/softpva/bmi_calculator) Uma calculadora de IMC para adultos.
 >   * [Contador de pessoas](https://github.com/softpva/people_counter) Controla a entrada/saída de pessoas em uma sala com capacidade limitada.
 >   * [Em desenvolvimento](https://github.com/softpva/financialJsCalculator) Uma calculadora financeira construída em html-css-js
+>   * [Em desenvolvimento]() Uma calculadora de salários com parâmetros regionais.
 > * #### Jogos educativos
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Um jogo Tetris Math que pode resolver muitas formas de operações matemáticas.
 >   * [Quadrado Mágico](https://github.com/softpva/magicSquare) Um Jogo de Quadrado Mágico com muitas dimensões.
@@ -55,6 +56,7 @@
 > * #### CRUD
 >   * [CRUD clínica médica](https://github.com/softpva/clinic) Um CRUD simples para uma clínica.
 > * #### WEB
+>   * [Em desenvolvimento]() Uma calculadora de salários com parâmetros regionais.
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, mostra e avalia um conjunto de filmes.  
 
 # Autor
