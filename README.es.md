@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)  
-[Mi currículum público](https://github.com/softpva/readme/blob/main/curriculum.md)
+[Mi currículum público](https://github.com/softpva/softpva/blob/main/curriculum.es.md)
 
 # Acerca de
 > Este portafolio fue construido en los últimos meses y está compuesto por aplicaciones simples en varias tecnologías.  
@@ -60,7 +60,7 @@
 # Autor
 > **Pedro Vítor Abreu**  
 > <br/>
-> [Mi currículum público](https://github.com/softpva/readme/blob/main/curriculum.md)
+> [Mi currículum público](https://github.com/softpva/softpva/blob/main/curriculum.es.md)
 > Para obtener más información, envíeme un [email] (mailto:soft.pva@gmail.com)
 >
 > <soft.pva@gmail.com>

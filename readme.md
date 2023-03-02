@@ -14,7 +14,7 @@
 # Index
 > ## **By Languages and Tecnologies**
 > * #### Javascript - HTML - CSS
->   * [Math Calculator](https://github.com/softpva/calculator) A Simple Math Calculator built in html-css-js
+>   * [Math Calculator](https://github.com/softpva/calculator) A Simple Math Calculator built in html-css-js.
 >   * [Under development](https://github.com/softpva/financialJsCalculator) A financial calculator built in html-css-js
 > * #### WASM - C/C++ - JS - HTML - CSS
 >   * [Under development](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
