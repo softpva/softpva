@@ -1,4 +1,4 @@
-# **Portfolio de aplicatiovs de Pedro Vitor Abreu** 
+# **Portfolio de aplicativos de Pedro Vitor Abreu** 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/softpva)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)  
