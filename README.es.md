@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)  
-[Mi currículum público](https://github.com/softpva/softpva/blob/main/curriculum.es.md)
+[Mi currículum](https://github.com/softpva/softpva/blob/main/curriculum.es.md)
 
 # Acerca de
 > Este portafolio fue construido en los últimos meses y está compuesto por aplicaciones simples en varias tecnologías.  
@@ -21,7 +21,7 @@
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, muestra y califica un conjunto de películas.
 > * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
->   * [En desarrollo]() Una calculadora de salarios con parámetros regionales.
+>   * [En desarrollo](https://github.com/softpva/net_salary) Una calculadora de salario neto con parámetros regionales.
 > * #### Godot - GdScript (como python)
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Un juego Tetris Math que puede resolver muchas formas de operaciones matemáticas.
 >   * [Cuadrado Mágico](https://github.com/softpva/magicSquare) Un juego de Magic Square con muchas dimensiones.
@@ -29,7 +29,7 @@
 >   * [Factorizar barriles](https://github.com/softpva/factorizeBarrels) Un juego para factorizar números.
 > * #### Python
 >   * [clínica médica CRUD](https://github.com/softpva/clinic) Un CRUD simple para una clínica médica.
->   * [En Desarrollo]() SISD para predecir comportamiento pandémico.
+>   * [En Desarrollo](https://github.com/softpva/pandemic_forecast) Una herramienta SISD para predecir el  comportamiento de una pandemia.
 > * #### Dart - Flutter
 >   * [Conversor de divisas](https://github.com/softpva/currencies_converter) Una aplicación de conversión de divisas (dólares-euros-reales-pesos)
 >   * [Calculadora de IMC](https://github.com/softpva/bmi_calculator) Una calculadora de IMC para adultos.
@@ -40,12 +40,12 @@
 >   * [Calculadora WASM](https://github.com/softpva/wasm_calculator) Una calculadora matemática simple construida en html-css-js vinculada a un código web assembly (WASM) construido en lenguaje RUST.
 >   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
 >   * [Calculadora matemática](https://github.com/softpva/calculator) Una calculadora matemática simple integrada en html-css-js
->   * [En Desarrollo]() SISD para predecir comportamiento pandémico.
+>   * [En Desarrollo](https://github.com/softpva/pandemic_forecast) Una herramienta SISD para predecir el  comportamiento de una pandemia.
 >   * [Conversor de divisas](https://github.com/softpva/currencies_converter) Una aplicación de conversión de divisas (dólares-euros-reales-pesos)
 >   * [Calculadora de IMC](https://github.com/softpva/bmi_calculator) Una calculadora de IMC para adultos.
 >   * [Contador de personas](https://github.com/softpva/people_counter) Controla la entrada/salida de personas de una sala con capacidad limitada.
 >   * [En desarrollo](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
->   * [En desarrollo]() Una calculadora de salarios con parámetros regionales.
+>   * [En desarrollo](https://github.com/softpva/net_salary) Una calculadora de salario neto con parámetros regionales.
 > * #### Juegos educativos
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Un juego Tetris Math que puede resolver muchas formas de operaciones matemáticas.
 >   * [Magic Square](https://github.com/softpva/magicSquare) Un juego de Magic Square con muchas dimensiones.
@@ -54,13 +54,13 @@
 > * #### CRUD
 >   * [clínica médica CRUD](https://github.com/softpva/clinic) Un CRUD simple para una clínica.
 > * #### WEB
->   * [En desarrollo]() Una calculadora de salarios con parámetros regionales.
+>   * [En desarrollo](https://github.com/softpva/net_salary) Una calculadora de salario neto con parámetros regionales.
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, muestra y califica un conjunto de películas.  
 
 # Autor
 > **Pedro Vítor Abreu**  
 > <br/>
-> [Mi currículum público](https://github.com/softpva/softpva/blob/main/curriculum.es.md)
+> [Mi currículum](https://github.com/softpva/softpva/blob/main/curriculum.es.md)
 > Para obtener más información, envíeme un [email] (mailto:soft.pva@gmail.com)
 >
 > <soft.pva@gmail.com>

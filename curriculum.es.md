@@ -19,7 +19,7 @@
 > Análisis de cargas especiales en puentes y viaductos. | Abrende | Pitón/C++ |
 > | Sistema de presupuestos de obras residenciales. | all4one | Java |
 > | Numerosas aplicaciones para el diseño y proyecto de estructuras de acero y de hormigón armado. | PVA ME | VB/C/C++/Python |
-> | Análisis de pilotes y tuberías sometidos a cargas verticales y horizontales.| PVA ME | Python/C/Calc |
+> | Análisis de pilotes y tubos sometidos a cargas verticales y horizontales.| PVA ME | Python/C/Calc |
 >
 >Algunas aplicaciones simples desarrolladas en los últimos meses están en [github](https://github.com/softpva)
 

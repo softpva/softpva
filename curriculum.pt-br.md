@@ -19,7 +19,7 @@
 > Análise de cargas especiais em pontes e viadutos. | Abrende | Python/C++ |
 > | Sistema para orçamentos de obras residenciais. | all4one | Java |
 > | Muitos aplicativos para projetar estruturas de concreto armado e aço. | PVA ME | VB/C/C++/Python |
-> | Análise de estacas e tubulações submetidas a carregamentos verticais e horizontais.| PVA ME | Python/C/Calc |
+> | Análise de estacas e tubulões submetidas a carregamentos verticais e horizontais.| PVA ME | Python/C/Calc |
 >
 >Alguns aplicativos simples, desenvolvidos nos últimos meses, estão no [github](https://github.com/softpva)  
 
