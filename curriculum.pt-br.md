@@ -5,7 +5,7 @@
 
 # **Pedro Vitor Abreu**
 > - Engenheiro Civil, Empresário e Desenvolvedor de Software desde 1982.
-> - <sof.pva@gmail.com> - <https://github.com/softpva> - de Campinas, SP, Brasil.
+> - <soft.pva@gmail.com> - <https://github.com/softpva> - de Campinas, SP, Brasil.
 > - Casado, 65 anos. (Oldies em tecnologia: [contratando e sendo contratado](https://www.infoq.com/articles/tech-oldies-hiring/)(en))
 > - Hobbies: Caminhadas, mountain bike, corrida de rua, composição musical e canto lírico.
 >

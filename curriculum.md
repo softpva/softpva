@@ -4,7 +4,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./curriculum.es.md)  
 # **Pedro Vitor Abreu**  
 > - Civil Engineer, Businessman and Software Developer since 1982.
-> - <sof.pva@gmail.com> - <https://github.com/softpva> - from Campinas, SP, Brazil.
+> - <soft.pva@gmail.com> - <https://github.com/softpva> - from Campinas, SP, Brazil.
 > - Male, married, 65 years old. (Oldies in tech: [hiring and getting hired](https://www.infoq.com/articles/tech-oldies-hiring/))
 > - Hobbies: Hiking, mountain bike, street running, music composition and lyrical singing.  
 >  
