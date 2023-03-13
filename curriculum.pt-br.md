@@ -6,7 +6,7 @@
 # **Pedro Vitor Abreu**
 > - Engenheiro Civil, Empresário e Desenvolvedor de Software desde 1982.
 > - <soft.pva@gmail.com> - <https://github.com/softpva> - de Campinas, SP, Brasil.
-> - Casado, 65 anos. (Oldies em tecnologia: [contratando e sendo contratado](https://www.infoq.com/articles/tech-oldies-hiring/)(en))
+> - Casado, 65 anos.
 > - Hobbies: Caminhadas, mountain bike, corrida de rua, composição musical e canto lírico.
 >
 > Depois de 40 anos trabalhando como Engenheiro Civil, Empreendedor e Desenvolvedor de Software autônomo, estou me aposentando das duas primeiras atividades e me mantendo na última, desenvolvimento de software, minha paixão.  
@@ -21,17 +21,17 @@
 > | Muitos aplicativos para projetar estruturas de concreto armado e aço. | PVA ME | VB/C/C++/Python |
 > | Análise de estacas e tubulões submetidas a carregamentos verticais e horizontais.| PVA ME | Python/C/Calc |
 >
->Alguns aplicativos simples, desenvolvidos nos últimos meses, estão no [github](https://github.com/softpva)  
-
-> ### Envolvido principalmente em:
+>**Alguns aplicativos simples, desenvolvidos nos últimos meses, estão no [github](https://github.com/softpva)**
+>
+> ### Envolvido principalmente em: (tempo corrido/tempo líquido)
 >
 > | Linguagem | Tempo | Linguagem | Tempo | Linguagem | Tempo | Linguagem | Tempo |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Python | 20 anos | SQL | 20 anos | C/C++ | 20 anos | JS/TS | 10 anos |
-> | Java | 10 anos | DBase/Clipper | 5 anos | VB | 10 anos | GDScript | 3 anos |
-> | Dart/Flutter| 3 anos | Rust | 2 anos| Fortran | 3 anos | WAT | 6 meses|
+> | Python | 20/6 anos | SQL | 20/8 anos | C/C++ | 20/4 anos | JS/TS | 10/3 anos |
+> | Java | 10/2 anos | DBase/Clipper | 5/4 anos | VB | 10/5 anos | GDScript | 3/2 anos |
+> | Dart/Flutter| 3/1 anos | Rust | 2/1 anos| Fortran | 3/1 anos | WAT | 6/6 meses|
 >
-> - Note que os períodos acima indicados foram compartilhados com outras duas atividades.  
+> - Devido ao exercício concomitante de outras duas atividades, os períodos acima são separados em duas partes: tempo corrido/tempo líquido em cada tecnologia.
 >
 > | Assunto | Tecnologias | Assunto | Frameworks/Libraries |
 > | :--- | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 > | **Outros:** | Copiloto, GTP, Scrum, Docker, Git/GitHub, Regex| **Python**: | Numpy, Matplotlib, Pandas, Pyplot, Pyodide, PyScript|  
 
 > ### Idiomas:
-> - Português (C2), Inglês (B2), Espanhol (B1), Francês (A2), Alemão (A1).
+> - Português (nativo), Inglês (interm+), Espanhol (interm), Italiano (ini+), Francês (ini), Alemão (ini).
 
 > ### Outros:
 > - Sólida formação em física e matemática.

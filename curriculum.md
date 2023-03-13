@@ -5,7 +5,7 @@
 # **Pedro Vitor Abreu**  
 > - Civil Engineer, Businessman and Software Developer since 1982.
 > - <soft.pva@gmail.com> - <https://github.com/softpva> - from Campinas, SP, Brazil.
-> - Male, married, 65 years old. (Oldies in tech: [hiring and getting hired](https://www.infoq.com/articles/tech-oldies-hiring/))
+> - Male, married, 65 years old. 
 > - Hobbies: Hiking, mountain bike, street running, music composition and lyrical singing.  
 >  
 > After 40 years working as a Civil Engineer, Entrepreneur and Software Developer for my self, I'm retiring from the first two activities and moving on with the last one, software development, my passion.  
@@ -20,17 +20,17 @@
 > | Many apps to design structures of reinforcement concrete and steel. | PVA ME | VB/C/C++/Python |  
 > | Analysis of piles and pipes subject to vertical and horizontal loads.| PVA ME | Python/C/Calc |
 >
->Some simple applications developed in recent months are in [github](https://github.com/softpva)
+>**Some simple applications developed in recent months are in [github](https://github.com/softpva)**
 >
-> ### Main involvement in:
+> ### Main involvement in: (total time/net time)
 > 
 > | Language |  Time | Language | Time | Language | Time |  Language | Time | 
 > | :--- | :--- | :--- | :--- | :--- | :--- |  :--- | :--- | 
-> |  Python | 20 years | SQL | 20 years | C/C++ | 20 years  |  JS/TS | 10 years |  
-> | Java | 10 years | DBase/Clipper | 5 years | VB | 10 years | GDScript | 3 years |
-> | Dart/Flutter| 3 years  | Rust | 2 years| Fortran | 3 years | WAT | 6 months|    
+> |  Python | 20/6 years | SQL | 20/8 years | C/C++ | 20/4 years  |  JS/TS | 10/3 years |  
+> | Java | 10/2 years | DBase/Clipper | 5/4 years | VB | 10/5 years | GDScript | 3/2 years |
+> | Dart/Flutter| 3/1 years  | Rust | 2/1 years| Fortran | 3/1 years | WAT | 6/6 months|    
 >
-> - Note that the periods shown above was shared with two more activities.    
+> - Due to the concomitant exercise of two other activities, the periods above are separated into two parts: total time/net time in each tecnology.    
 >
 > | Subject | Technologies  | Subject | Frameworks/Libraries |
 > | :--- | :--- | :--- | :--- |
@@ -39,11 +39,11 @@
 > | **Other:** | Copilot, GTP, Scrum, Docker, Git/GitHub, Regex| **Python**: | Numpy, Matplotlib, Pandas, Pyplot, Pyodide,  PyScript|
   
 > ### Languages: 
-> - Portuguese (C2), English (B2), Spanish (B1), French (A2), German (A1).  
+> - Portuguese (native), English (interm.+), Spanish (interm.), Italian (beginner+), French (beginner), German (beginner).
 
 > ### Other:
 > - Solid background in physics and mathematics.
-> - Focused, hardworking, curious and problems solver.(pro ecology and diversity)
+> - Focused, hardworking, curious and problems solver. (pro ecology and diversity)
 
 > ### Education:
 > - High School with electrotechnical at UNICAMP and graduate in 1982 as civil engineer at PUCC,Brazil.

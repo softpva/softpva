@@ -6,7 +6,7 @@
 # **Pedro Vitor Abreu**
 > - Ingeniero Civil, Emprendedor y Desarrollador de Software desde 1982.
 > - <soft.pva@gmail.com> - <https://github.com/softpva> - de Campinas, SP, Brasil.
-> - Casado, 65 años. (Oldies en tecnología: [contratar y ser contratado](https://www.infoq.com/articles/tech-oldies-hiring/)(en))
+> - Casado, 65 años. 
 > - Aficiones: Senderismo, ciclismo de montaña, carrera callejera, composición musical y canto lírico.
 >
 > Luego de 40 años trabajando como Ingeniero Civil, Emprendedor y Desarrollador de Software Freelance, me retiro de las dos primeras actividades y me enfoco en la última, el desarrollo de software, mi pasión.
@@ -21,17 +21,17 @@
 > | Numerosas aplicaciones para el diseño y proyecto de estructuras de acero y de hormigón armado. | PVA ME | VB/C/C++/Python |
 > | Análisis de pilotes y tubos sometidos a cargas verticales y horizontales.| PVA ME | Python/C/Calc |
 >
->Algunas aplicaciones simples desarrolladas en los últimos meses están en [github](https://github.com/softpva)
-
-> ### Principalmente involucrado en:
+>**Algunas aplicaciones simples desarrolladas en los últimos meses están en [github](https://github.com/softpva)**
+>
+> ### Principalmente involucrado en: (tiempo total/tiempo neto)
 >
 > | Lenguage | Tiempo | Lenguage | Tiempo | Lenguage | Tiempo | Lenguage | Tiempo |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Python | 20 años | SQL | 20 años | C/C++ | 20 años | JS/TS | 10 años |
-> | Java | 10 años | DBase/Clipper | 5 años | VB | 10 años | GDScript | 3 años |
-> | Dart/Flutter| 3 años | Rust | 2 años | Fortran | 3 años | WAT | 6 meses|
+> | Python | 20/6 años | SQL | 20/8 años | C/C++ | 20/4 años | JS/TS | 10/3 años |
+> | Java | 10/2 años | DBase/Clipper | 5/4 años | VB | 10/5 años | GDScript | 3/2 años |
+> | Dart/Flutter| 3/1 años | Rust | 2/1 años | Fortran | 3/1 años | WAT | 6/6 meses|
 >
-> - Tenga en cuenta que los períodos indicados anteriormente se compartieron con dos actividades más.
+> - Debido al ejercicio concomitante de otras dos actividades, los períodos anteriores se separan en dos partes: tiempo total/tiempo neto en cada tecnologia.
 >
 > | Asunto | Tecnologías | Asunto | Frameworks/Libraries |
 > | :--- | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 > | **Otros:** | Copilot, GTP, Scrum, Docker, Git/GitHub, Regex| **Pitón**: | Numpy, Matplotlib, Pandas, Pyplot, Pyodide, PyScript|  
 
 > ### Idiomas:
-> - Portugués (C2), Inglés (B2), Español (B1), Francés (A2), Alemán (A1).
+> - Portugués (nativo), Inglés (interm.+), Español (interm.), Italiano(princ.+), Francés (princ.), Alemán (princ.).
 
 > ### Otros:
 > - Sólida formación en física y matemáticas.
