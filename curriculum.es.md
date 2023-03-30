@@ -35,12 +35,13 @@
 >
 > | Asunto | Tecnologías | Asunto | Frameworks/Libraries |
 > | :--- | :--- | :--- | :--- |
-> | **SO:** | Linux, DOS, Windows, Android | **JS/TS**: | Node, React, Next, React-native, Vue |
+> | **SO:** | Linux, DOS, Windows, Android | **JS/TS**: | Node, React, Next/Remix, React-native/Expo |
 > | **IDE:** | VsCode, Eclipse, PyCharm, CodeBlocks | **Java**: | SpringBoot & co, Struts, JSF |
+> | **Database:** | Relational, NoSQL, Prisma |  **CMS**: | WordPress/php, Joomla/php |
 > | **Otros:** | Copilot, GTP, Scrum, Docker, Git/GitHub, Regex| **Pitón**: | Numpy, Matplotlib, Pandas, Pyplot, Pyodide, PyScript|  
 
 > ### Idiomas:
-> - Portugués (nativo), Inglés (interm.+), Español (interm.), Italiano(princ.+), Francés (princ.), Alemán (princ.).
+> - Portugués (nativo), Inglés (interm.+), Español (interm.).
 
 > ### Otros:
 > - Sólida formación en física y matemáticas.

@@ -20,6 +20,8 @@
 >   * [Under development](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
 > * #### WASM - Rust - JS - HTML - CSS
 >   * [WASM Calculator](https://github.com/softpva/wasm_calculator) A simple math calculator built in html-css-js linked to a web assembly code (WASM) built in RUST language.
+> * #### C++
+>   * [Financial CLI Calculator](https://github.com/softpva/financial_calculator_cli) A Financial CLI (Command Line Interface) Calculator built in C++
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Fetches, shows and evaluates a set of movies.
 > * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
@@ -43,6 +45,7 @@
 > * #### Utilities
 >   * [WASM Calculator](https://github.com/softpva/wasm_calculator) A simple math calculator built in html-css-js linked to a web assembly code (WASM) built in rust language.
 >   * [Under development](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
+>   * [Financial CLI Calculator](https://github.com/softpva/financial_calculator_cli) A Financial CLI (Command Line Interface) Calculator built in C++
 >   * [Math Calculator](https://github.com/softpva/calculator) A Simple Math Calculator built in html-css-js
 >   * [Under develpment](https://github.com/softpva/pandemic_forecast) A SISD tool to predict a pandemic behavior
 >   * [Currencies Converter](https://github.com/softpva/currencies_converter) A Currencies converter App.(Dollars-Euros-Reals-Pesos)

@@ -18,6 +18,8 @@
 >   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
 > * #### WASM - Rust - JS - HTML - CSS
 >   * [Calculadora WASM](https://github.com/softpva/wasm_calculator) Una calculadora matemática simple construida en html-css-js vinculada a un código web assembly (WASM) construido en lenguaje RUST.
+> * #### C++
+>   * [Calculadora Financiera CLI](https://github.com/softpva/financial_calculator_cli) Una Calculadora Financiera CLI (Command Line Interface) desarrollada en C++
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, muestra y califica un conjunto de películas.
 > * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
@@ -39,6 +41,7 @@
 > * #### Utilidades
 >   * [Calculadora WASM](https://github.com/softpva/wasm_calculator) Una calculadora matemática simple construida en html-css-js vinculada a un código web assembly (WASM) construido en lenguaje RUST.
 >   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
+>   * [Calculadora Financiera CLI](https://github.com/softpva/financial_calculator_cli) Una Calculadora Financiera CLI (Command Line Interface) desarrollada en C++
 >   * [Calculadora matemática](https://github.com/softpva/calculator) Una calculadora matemática simple integrada en html-css-js
 >   * [En Desarrollo](https://github.com/softpva/pandemic_forecast) Una herramienta SISD para predecir el  comportamiento de una pandemia.
 >   * [Conversor de divisas](https://github.com/softpva/currencies_converter) Una aplicación de conversión de divisas (dólares-euros-reales-pesos)
