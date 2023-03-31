@@ -12,8 +12,8 @@
 # Índice
 > ## **Por Lenguajes y Tecnologías**
 > * #### Javascript - HTML - CSS
+>   * [Calculadora Financiera](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
 >   * [Calculadora matemática](https://github.com/softpva/calculator) Una calculadora matemática simple integrada en html-css-js
->   * [En desarrollo](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
 > * #### WASM - C/C++ - JS - HTML - CSS
 >   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
 > * #### WASM - Rust - JS - HTML - CSS
@@ -40,6 +40,7 @@
 > ## **Por tema**
 > * #### Utilidades
 >   * [Calculadora WASM](https://github.com/softpva/wasm_calculator) Una calculadora matemática simple construida en html-css-js vinculada a un código web assembly (WASM) construido en lenguaje RUST.
+>   * [Calculadora Financiera](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
 >   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
 >   * [Calculadora Financiera CLI](https://github.com/softpva/financial_calculator_cli) Una Calculadora Financiera CLI (Command Line Interface) desarrollada en C++
 >   * [Calculadora matemática](https://github.com/softpva/calculator) Una calculadora matemática simple integrada en html-css-js

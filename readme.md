@@ -14,8 +14,8 @@
 # Index
 > ## **By Languages and Tecnologies**
 > * #### Javascript - HTML - CSS
+>   * [Financial Calculator](https://github.com/softpva/financialJsCalculator) A financial calculator built in html-css-js
 >   * [Math Calculator](https://github.com/softpva/calculator) A Simple Math Calculator built in html-css-js.
->   * [Under development](https://github.com/softpva/financialJsCalculator) A financial calculator built in html-css-js
 > * #### WASM - C/C++ - JS - HTML - CSS
 >   * [Under development](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
 > * #### WASM - Rust - JS - HTML - CSS
@@ -44,7 +44,7 @@
 > ## **By Subject**
 > * #### Utilities
 >   * [WASM Calculator](https://github.com/softpva/wasm_calculator) A simple math calculator built in html-css-js linked to a web assembly code (WASM) built in rust language.
->   * [Under development](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
+>   * [Financial Calculator](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
 >   * [Financial CLI Calculator](https://github.com/softpva/financial_calculator_cli) A Financial CLI (Command Line Interface) Calculator built in C++
 >   * [Math Calculator](https://github.com/softpva/calculator) A Simple Math Calculator built in html-css-js
 >   * [Under develpment](https://github.com/softpva/pandemic_forecast) A SISD tool to predict a pandemic behavior
