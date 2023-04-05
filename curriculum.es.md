@@ -9,7 +9,7 @@
 > - Casado, 65 años. 
 > - Aficiones: Senderismo, ciclismo de montaña, carrera callejera, composición musical y canto lírico.
 >
-> Luego de 40 años trabajando como Ingeniero Civil, Emprendedor y Desarrollador de Software Freelance, me retiro de las dos primeras actividades y me enfoco en la última, el desarrollo de software, mi pasión.
+> Este currículum contempla principalmente mis habilidades con el desarrollo de software.
 
 ## Habilidades de desarrollo de software
 >

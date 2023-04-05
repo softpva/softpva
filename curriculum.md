@@ -8,7 +8,7 @@
 > - Male, married, 65 years old. 
 > - Hobbies: Hiking, mountain bike, street running, music composition and lyrical singing.  
 >  
-> After 40 years working as a Civil Engineer, Entrepreneur and Software Developer for my self, I'm retiring from the first two activities and moving on with the last one, software development, my passion.  
+> This resume mainly contemplates my skills with software development.  
 
 ## Software Development Skills
 >

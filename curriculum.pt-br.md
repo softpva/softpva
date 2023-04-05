@@ -9,7 +9,7 @@
 > - Casado, 65 anos.
 > - Hobbies: Caminhadas, mountain bike, corrida de rua, composição musical e canto lírico.
 >
-> Depois de 40 anos trabalhando como Engenheiro Civil, Empreendedor e Desenvolvedor de Software autônomo, estou me aposentando das duas primeiras atividades e me mantendo na última, desenvolvimento de software, minha paixão.  
+> Este curriculo contempla principalmente minhas habilidades com desenvolvimento de software.  
 
 ## Habilidades de Desenvolvimento de Software
 >
