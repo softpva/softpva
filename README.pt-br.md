@@ -22,8 +22,6 @@
 >   * [Calculadora Financeira CLI](https://github.com/softpva/financial_calculator_cli) Uma Calculadora Financeira CLI (Command Line Interface) desenvolvida em C++
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, mostra e avalia um conjunto de filmes.
-> * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
->   * [Em desenvolvimento](https://github.com/softpva/net_salary) Uma calculadora de salário líquido com parâmetros regionais.
 > * #### Godot - GdScript (parece python)
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Um jogo Tetris Math que pode resolver muitas formas de operações matemáticas.
 >   * [Quadrado Mágico](https://github.com/softpva/magicSquare) Um Jogo de Quadrado Mágico com muitas dimensões.
@@ -50,8 +48,7 @@
 >   * [Conversor de moedas](https://github.com/softpva/currencies_converter) Um aplicativo conversor de moedas (dólares-euros-reais-pesos)
 >   * [Calculadora de IMC](https://github.com/softpva/bmi_calculator) Uma calculadora de IMC para adultos.
 >   * [Contador de pessoas](https://github.com/softpva/people_counter) Controla a entrada/saída de pessoas em uma sala com capacidade limitada.
->   * [Em desenvolvimento](https://github.com/softpva/financialJsCalculator) Uma calculadora financeira construída em html-css-js
->   * [Em desenvolvimento](https://github.com/softpva/net_salary) Uma calculadora de salário líquido com parâmetros regionais.
+>   * [[Calculadora Financeira](https://github.com/softpva/financialJsCalculator) Uma calculadora financeira construída em html-css-js
 > * #### Jogos educativos
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Um jogo Tetris Math que pode resolver muitas formas de operações matemáticas.
 >   * [Quadrado Mágico](https://github.com/softpva/magicSquare) Um Jogo de Quadrado Mágico com muitas dimensões.
@@ -60,7 +57,6 @@
 > * #### CRUD
 >   * [CRUD clínica médica](https://github.com/softpva/clinic) Um CRUD simples para uma clínica.
 > * #### WEB
->   * [Em desenvolvimento](https://github.com/softpva/net_salary) Uma calculadora de salário líquido com parâmetros regionais.
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, mostra e avalia um conjunto de filmes.  
 
 # Autor

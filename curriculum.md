@@ -7,7 +7,7 @@
 > - Male, married, 65 years old, from Campinas, SP, Brazil.
 > - Hobbies: Hiking, mountain bike, street running, music composition and lyrical singing.  
 > - [email](soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-bbb9115b)  
-> - **This resume contemplates my skills with software development.** 
+> - **This resume covers my software development skills.** 
 
 ## Software Development Skills
 >

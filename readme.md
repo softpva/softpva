@@ -24,8 +24,6 @@
 >   * [Financial CLI Calculator](https://github.com/softpva/financial_calculator_cli) A Financial CLI (Command Line Interface) Calculator built in C++
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
 >   * [DSMovie](https://github.com/softpva/dsmovie) Fetches, shows and evaluates a set of movies.
-> * #### Full Stack - Next JS - Typescript - React - Node - MongoDb
->   * [Under development](https://github.com/softpva/net_salary) A net salary calculator with regional parameters.
 > * #### Godot - GdScript (like python)  
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Tetris Math game can solve many forms of math operations.
 >   * [Magic Square](https://github.com/softpva/magicSquare) A Magic Square Game with many dimensions.
@@ -44,15 +42,14 @@
 > ## **By Subject**
 > * #### Utilities
 >   * [WASM Calculator](https://github.com/softpva/wasm_calculator) A simple math calculator built in html-css-js linked to a web assembly code (WASM) built in rust language.
->   * [Financial Calculator](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
+>   * [Under develpment](https://github.com/softpva/financial_calculator) A financial calculator built in html-css-js linked to a web assembly code (WASM) built in C++
 >   * [Financial CLI Calculator](https://github.com/softpva/financial_calculator_cli) A Financial CLI (Command Line Interface) Calculator built in C++
 >   * [Math Calculator](https://github.com/softpva/calculator) A Simple Math Calculator built in html-css-js
 >   * [Under develpment](https://github.com/softpva/pandemic_forecast) A SISD tool to predict a pandemic behavior
 >   * [Currencies Converter](https://github.com/softpva/currencies_converter) A Currencies converter App.(Dollars-Euros-Reals-Pesos)
 >   * [BMI Calculator](https://github.com/softpva/bmi_calculator) A BMI clculator for adult people.
 >   * [People Counter](https://github.com/softpva/people_counter) Controls people entry/exit a capacity-constrained room.
->   * [Under development](https://github.com/softpva/financialJsCalculator) A financial calculator built in html-css-js
->   * [Under development]() A salary calculator with regional parameters.
+>   * [Financial Calculator](https://github.com/softpva/financialJsCalculator) A financial calculator built in html-css-js
 > * #### Educational Games
 >   * [Tetris Math](https://github.com/softpva/tetrisMath) Tetris Math game can solve many forms of math operations.
 >   * [Magic Square](https://github.com/softpva/magicSquare) A Magic Square Game with many dimensions.
@@ -61,7 +58,6 @@
 > * #### CRUD
 >   * [Clinic CRUD](https://github.com/softpva/clinic) A simple CRUD to a clinic.
 > * #### WEB
->   * [Under development](https://github.com/softpva/net_salary) A net salary calculator with regional parameters.
 >   * [DSMovie](https://github.com/softpva/dsmovie) Fetches, shows and evaluates a set of movies.
 
 
