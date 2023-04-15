@@ -2,14 +2,12 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./curriculum.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./curriculum.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./curriculum.es.md)  
-
 # **Pedro Vitor Abreu**
 > - Engenheiro Civil, Empresário e Desenvolvedor de Software desde 1982.
-> - <soft.pva@gmail.com> - <https://github.com/softpva> - de Campinas, SP, Brasil.
-> - Casado, 65 anos.
+> - Casado, 65 anos, de Campinas, SP, Brasil. 
 > - Hobbies: Caminhadas, mountain bike, corrida de rua, composição musical e canto lírico.
->
-> Este curriculo contempla principalmente minhas habilidades com desenvolvimento de software.  
+> - [email](soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-bbb9115b) 
+> - **Este curriculo contempla minhas habilidades com desenvolvimento de software.** 
 
 ## Habilidades de Desenvolvimento de Software
 >
@@ -23,29 +21,23 @@
 >
 >**Alguns aplicativos simples, desenvolvidos nos últimos meses, estão no [github](https://github.com/softpva)**
 >
-> ### Envolvido principalmente em: (tempo corrido/tempo líquido)
->
-> | Linguagem | Tempo | Linguagem | Tempo | Linguagem | Tempo | Linguagem | Tempo |
-> | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Python | 20/6 anos | SQL | 20/8 anos | C/C++ | 20/4 anos | JS/TS | 10/3 anos |
-> | Java | 10/2 anos | DBase/Clipper | 5/4 anos | VB | 10/5 anos | GDScript | 3/2 anos |
-> | Dart/Flutter| 3/1 anos | Rust | 2/1 anos| Fortran | 3/1 anos | WAT | 6/6 meses|
->
-> - Devido ao exercício concomitante de outras duas atividades, os períodos acima são separados em duas partes: tempo corrido/tempo líquido em cada tecnologia.
+> ### Envolvido principalmente em:**
+> | Linguagem | Anos | Linguagem | Anos | Ling. | Anos | Ling. | Anos |Ling. | Anos |
+> | :--- | :--- | :--- | :--- | :--- | :--- |  :--- | :--- |   :--- | :--- | 
+> |  Python | 6  | Dart/Flutter | 2  | C/C++ | 5   |  JS/TS | 4  |  Java | 3 
+> | VB | 4  | DBase/Clipper | 5 | R | 1 | GDScript | 3 |C# .NET | 3 | 
+> | SQL | 8  | Fortran | 2 | Cobol | 1 | Rust | 1 | Kotlin | 1|   
 >
 > | Assunto | Tecnologias | Assunto | Frameworks/Libraries |
 > | :--- | :--- | :--- | :--- |
-> | **SO:** | Linux, DOS, Windows, Android | **JS/TS**: | Node, React, Next/Remix, React-native/Expo |
-> | **IDE:** | VsCode, Eclipse, PyCharm, CodeBlocks | **Java**: | SpringBoot & cia, Struts, JSF |
+> | **SO:** | Linux, DOS, Windows, Android | **JS/TS**: | Node, React, Next/Remix |
+> | **IDE:** | VsCode, Eclipse, PyCharm |  **Java**: | Spring, SpringBoot & cia |
 > | **Database:** | Relational, NoSQL, Prisma |  **CMS**: | WordPress/php, Joomla/php |
-> | **Outros:** | Copiloto, GTP, Scrum, Docker, Git/GitHub, Regex| **Python**: | Numpy, Matplotlib, Pandas, Pyplot, Pyodide, PyScript|  
-
-> ### Idiomas:
-> - Português (nativo), Inglês (interm+), Espanhol (interm).
+> | **Outros:** | Copilot/CodeWhisperer, Scrum, Docker, GitHub| **Python**: | Numpy, Pandas, muitos outros |  
 
 > ### Outros:
-> - Sólida formação em física e matemática.
-> - Focado, trabalhador, curioso e solucionador de problemas. (pró ecologia e diversidade)
+> - **Idiomas:** Português (nativo), Inglês (interm+), Espanhol (interm).
+> - Sólida formação em física e matemática, trabalhador, curioso e solucionador de problemas.  
 
 > ### Educação:
 > - Ensino médio com eletrotécnica pela UNICAMP e graduação em 1982 como engenheiro civil pela PUCC, Brasil.

@@ -5,11 +5,10 @@
 
 # **Pedro Vitor Abreu**
 > - Ingeniero Civil, Emprendedor y Desarrollador de Software desde 1982.
-> - <soft.pva@gmail.com> - <https://github.com/softpva> - de Campinas, SP, Brasil.
-> - Casado, 65 años. 
+> - Casado, 65 años, de Campinas, SP, Brasil.
 > - Aficiones: Senderismo, ciclismo de montaña, carrera callejera, composición musical y canto lírico.
->
-> Este currículum contempla principalmente mis habilidades con el desarrollo de software.
+> - [email](soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-bbb9115b) 
+> - **Este currículum contempla mis habilidades con el desarrollo de software.**
 
 ## Habilidades de desarrollo de software
 >
@@ -23,29 +22,23 @@
 >
 >**Algunas aplicaciones simples desarrolladas en los últimos meses están en [github](https://github.com/softpva)**
 >
-> ### Principalmente involucrado en: (tiempo total/tiempo neto)
->
-> | Lenguage | Tiempo | Lenguage | Tiempo | Lenguage | Tiempo | Lenguage | Tiempo |
-> | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Python | 20/6 años | SQL | 20/8 años | C/C++ | 20/4 años | JS/TS | 10/3 años |
-> | Java | 10/2 años | DBase/Clipper | 5/4 años | VB | 10/5 años | GDScript | 3/2 años |
-> | Dart/Flutter| 3/1 años | Rust | 2/1 años | Fortran | 3/1 años | WAT | 6/6 meses|
->
-> - Debido al ejercicio concomitante de otras dos actividades, los períodos anteriores se separan en dos partes: tiempo total/tiempo neto en cada tecnologia.
+> ### Principalmente involucrado en:
+> | Lenguage | Años | Lenguage | Años | Leng. | Años | Leng. | Años |Leng. | Años |
+> | :--- | :--- | :--- | :--- | :--- | :--- |  :--- | :--- |   :--- | :--- | 
+> |  Python | 6  | Dart/Flutter | 2  | C/C++ | 5   |  JS/TS | 4  |  Java | 3 
+> | VB | 4  | DBase/Clipper | 5 | R | 1 | GDScript | 3 |C# .NET | 3 | 
+> | SQL | 8  | Fortran | 2 | Cobol | 1 | Rust | 1 | Kotlin | 1|   
 >
 > | Asunto | Tecnologías | Asunto | Frameworks/Libraries |
 > | :--- | :--- | :--- | :--- |
-> | **SO:** | Linux, DOS, Windows, Android | **JS/TS**: | Node, React, Next/Remix, React-native/Expo |
-> | **IDE:** | VsCode, Eclipse, PyCharm, CodeBlocks | **Java**: | SpringBoot & co, Struts, JSF |
+> | **SO:** | Linux, DOS, Windows, Android | **JS/TS**: | Node, React, Next/Remix |
+> | **IDE:** | VsCode, Eclipse, PyCharm |  **Java**: | Spring, SpringBoot & cia |
 > | **Database:** | Relational, NoSQL, Prisma |  **CMS**: | WordPress/php, Joomla/php |
-> | **Otros:** | Copilot, GTP, Scrum, Docker, Git/GitHub, Regex| **Pitón**: | Numpy, Matplotlib, Pandas, Pyplot, Pyodide, PyScript|  
-
-> ### Idiomas:
-> - Portugués (nativo), Inglés (interm.+), Español (interm.).
+> | **Otros:** | Copilot/CodeWhisperer, Scrum, Docker, GitHub| **Python**: | Numpy, Pandas, muchos otros |   
 
 > ### Otros:
-> - Sólida formación en física y matemáticas.
-> - Centrado, trabajador, curioso y solucionador de problemas. (pro ecología y diversidad)
+> - **Idiomas:** Portugués (nativo), Inglés (interm.+), Español (interm.).
+> - Sólida formación en física y matemáticas, trabajador, curioso y solucionador de problemas.
 
 > ### Educación:
 > - Bachillerato en electrotecnia en la UNICAMP y se graduó en 1982 como ingeniero civil en la PUCC, Brasil.
