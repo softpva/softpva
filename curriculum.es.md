@@ -7,7 +7,7 @@
 > - Ingeniero Civil, Emprendedor y Desarrollador de Software desde 1982.
 > - Casado, 65 años, de Campinas, SP, Brasil.
 > - Aficiones: Senderismo, ciclismo de montaña, carrera callejera, composición musical y canto lírico.
-> - [email](soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-abreu) 
+> - [email](mailto:soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-abreu) 
 > - **Este currículum contempla mis habilidades con el desarrollo de software.**
 
 ## Habilidades de desarrollo de software
