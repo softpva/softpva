@@ -6,7 +6,7 @@
 > - Civil Engineer, Businessman and Software Developer since 1982.
 > - Male, married, 65 years old, from Campinas, SP, Brazil.
 > - Hobbies: Hiking, mountain bike, street running, music composition and lyrical singing.  
-> - [email](soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-bbb9115b)  
+> - [email](soft.pva@gmail.com) - [github](https://github.com/softpva) - [linkedin](https://linkedin.com/in/pedro-vitor-abreu)  
 > - **This resume covers my software development skills.** 
 
 ## Software Development Skills
