@@ -26,7 +26,7 @@
 > | Lenguage | Años | Lenguage | Años | Leng. | Años | Leng. | Años |Leng. | Años |
 > | :--- | :--- | :--- | :--- | :--- | :--- |  :--- | :--- |   :--- | :--- | 
 > |  Python | 6  | Dart/Flutter | 2  | C/C++ | 5   |  JS/TS | 4  |  VB | 4 
-> | Java | 4  | DBase/Clipper | 5 | R/BI | 1 | GDScript | 3 |.NET| 3 | 
+> | Java | 4  | DBase/Clipp | 5 | R/BI | 1 | GDScr | 3 |.NET| 3 | 
 > | SQL | 8  | Fortran | 2 | Cobol | 1 | Rust | 1 | Kotlin | 1|    
 >
 > | Asunto | Tecnologías | Asunto | Frameworks/Libraries |
@@ -46,6 +46,6 @@
 > | Técnico em Eletrotécnica | Unicamp | Ingeniería Civil | PUCC | 
 > | Postgrado Desarrollo Web Web-Java | FACC | Pos Ing. Civil | USP |
 > |  Pos Ing. Civil | Unicamp | CS50s| Harvard-edx |> 
-> | FS:Node/React/Angular/Next | Udemy | FE:Html/Css/Js/ES6/React/Redux | freeCodeCamp |
+> | FS:Node/React/Angular/Next/REST | Udemy | FE:Html/Css/ES6/React/Redux | freeCodeCamp |
 > | BE:Bash/SQL/Node/Express/Mongo | FCC/Udemy | DataScience/ML/Py/Julia/R | FCC/Udemy | 
-> | FS:Java/Kotlin/Spring/SpringBoot/REST | Udemy | Dart/Flutter/Rust/Go/C++ | Udemy/Div. | 
+> | FS:Java/Kotlin/Spring/SpringBoot | Udemy | Dart/Flutter/Rust/Go/C++ | Udemy/Div. | 
