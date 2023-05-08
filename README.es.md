@@ -11,13 +11,10 @@
 
 # Índice
 > ## **Por Lenguajes y Tecnologías**
-> * #### Javascript - HTML - CSS
->   * [Calculadora Financiera](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
->   * [Calculadora matemática](https://github.com/softpva/calculator) Una calculadora matemática simple integrada en html-css-js
-> * #### WASM - C/C++ - JS - HTML - CSS
->   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
 > * #### WASM - Rust - JS - HTML - CSS
 >   * [Calculadora WASM](https://github.com/softpva/wasm_calculator) Una calculadora matemática simple construida en html-css-js vinculada a un código web assembly (WASM) construido en lenguaje RUST.
+> * #### WASM - C/C++ - JS - HTML - CSS
+>   * [En desarrollo](https://github.com/softpva/financial_calculator) Una calculadora financiera integrada en html-css-js vinculada a un código web assembly (WASM) integrado en C++
 > * #### C++
 >   * [Calculadora Financiera CLI](https://github.com/softpva/financial_calculator_cli) Una Calculadora Financiera CLI (Command Line Interface) desarrollada en C++
 > * #### Full Stack - Java - Spring Boot - - Typescript - React - Node
@@ -34,6 +31,9 @@
 >   * [Conversor de divisas](https://github.com/softpva/currencies_converter) Una aplicación de conversión de divisas (dólares-euros-reales-pesos)
 >   * [Calculadora de IMC](https://github.com/softpva/bmi_calculator) Una calculadora de IMC para adultos.
 >   * [Contador de personas](https://github.com/softpva/people_counter) Controla la entrada/salida de personas de una sala con capacidad limitada.
+> * #### Javascript - HTML - CSS
+>   * [Calculadora Financiera](https://github.com/softpva/financialJsCalculator) Una calculadora financiera construida en html-css-js
+>   * [Calculadora matemática](https://github.com/softpva/calculator) Una calculadora matemática simple integrada en html-css-js
 
 > ## **Por tema**
 > * #### Utilidades
@@ -53,7 +53,7 @@
 >   * [Pong Table ](https://github.com/softpva/pongMultiplicationTable) Un juego de Pong para practicar las tablas de multiplicar.
 >   * [Factorizar barriles](https://github.com/softpva/factorizeBarrels) Un juego para factorizar números.
 > * #### CRUD
->   * [clínica médica CRUD](https://github.com/softpva/clinic) Un CRUD simple para una clínica.
+>   * [clínica médica CRUD](https://github.com/softpva/clinic) Un CRUD simple en python para una clínica.
 > * #### WEB
 >   * [DSMovie](https://github.com/softpva/dsmovie) Busca, muestra y califica un conjunto de películas.  
 
